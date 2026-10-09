@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "LearnPath AI",
+    "slug": "learnpath-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.learnpath.ai" },
+    "ios": { "bundleIdentifier": "com.learnpath.ai" },
+    "plugins": ["expo-secure-store"]
+  }
+}
